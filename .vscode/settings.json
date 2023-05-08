@@ -23,6 +23,7 @@
     "notebook.formatOnSave.enabled": true,
     "python.terminal.activateEnvInCurrentTerminal": true,
     "python.terminal.focusAfterLaunch": true,
+    "tabnine.experimentalAutoImports": true,
     "telemetry.telemetryLevel": "off",
     "terminal.integrated.confirmOnExit": "hasChildProcesses",
     "terminal.integrated.enableBell": true,
