@@ -35,6 +35,7 @@
     "git.terminalGitEditor": true,
     "github.branchProtection": true,
     "notebook.formatOnSave.enabled": true,
+    "python.analysis.typeCheckingMode": "basic",
     "python.terminal.activateEnvInCurrentTerminal": true,
     "python.terminal.focusAfterLaunch": true,
     "standard.autoFixOnSave": true,
