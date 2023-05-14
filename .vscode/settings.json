@@ -36,6 +36,7 @@
     "javascript.format.enable": false,
     "javascript.validate.enable": false,
     "notebook.formatOnSave.enabled": true,
+    "python.analysis.typeCheckingMode": "basic",
     "python.terminal.activateEnvInCurrentTerminal": true,
     "python.terminal.focusAfterLaunch": true,
     "standard.autoFixOnSave": true,
