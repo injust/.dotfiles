@@ -38,6 +38,8 @@
     "python.analysis.typeCheckingMode": "basic",
     "python.terminal.activateEnvInCurrentTerminal": true,
     "python.terminal.focusAfterLaunch": true,
+    "security.promptForLocalFileProtocolHandling": false,
+    "security.workspace.trust.enabled": false,
     "standard.autoFixOnSave": true,
     "standard.validate": [
         "javascript",
