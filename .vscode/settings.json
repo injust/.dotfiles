@@ -23,6 +23,7 @@
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
+    "editor.renderFinalNewline": "dimmed",
     "editor.wordWrap": "on",
     "explorer.fileNesting.enabled": true,
     "files.autoSave": "afterDelay",
