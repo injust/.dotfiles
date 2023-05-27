@@ -39,6 +39,7 @@
     "git.rebaseWhenSync": true,
     "git.terminalGitEditor": true,
     "github.branchProtection": true,
+    "gitlens.plusFeatures.enabled": false,
     "notebook.formatOnSave.enabled": true,
     "python.analysis.typeCheckingMode": "basic",
     "python.terminal.activateEnvInCurrentTerminal": true,
