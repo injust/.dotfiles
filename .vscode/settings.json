@@ -38,6 +38,7 @@
     "git.rebaseWhenSync": true,
     "git.terminalGitEditor": true,
     "github.branchProtection": true,
+    "gitlens.plusFeatures.enabled": false,
     "javascript.format.enable": false,
     "javascript.validate.enable": false,
     "notebook.formatOnSave.enabled": true,
