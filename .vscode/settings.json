@@ -40,6 +40,7 @@
     "github.branchProtection": true,
     "gitlens.plusFeatures.enabled": false,
     "javascript.format.enable": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
     "javascript.validate.enable": false,
     "notebook.formatOnSave.enabled": true,
     "python.analysis.typeCheckingMode": "basic",
@@ -66,5 +67,6 @@
     "terminal.integrated.showExitAlert": false,
     "terminal.integrated.tabs.focusMode": "singleClick",
     "timeline.pageOnScroll": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
     "window.autoDetectColorScheme": true
 }
