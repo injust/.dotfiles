@@ -42,6 +42,7 @@
     "javascript.format.enable": false,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "javascript.validate.enable": false,
+    "mypy-type-checker.reportingScope": "workspace",
     "notebook.formatOnSave.enabled": true,
     "python.analysis.autoFormatStrings": true,
     "python.analysis.autoImportCompletions": true,
