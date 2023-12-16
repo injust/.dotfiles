@@ -1,4 +1,10 @@
 {
+    "[javascript]": {
+        "editor.defaultFormatter": "standard.vscode-standard"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "standard.vscode-standard"
+    },
     "[python]": {
         "editor.codeActionsOnSave": {
             "source.fixAll": true,
@@ -6,12 +12,19 @@
         },
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
+    "[typescript]": {
+        "editor.defaultFormatter": "standard.vscode-standard"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "standard.vscode-standard"
+    },
     "editor.experimental.asyncTokenization": true,
     "editor.foldingImportsByDefault": true,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
     "explorer.fileNesting.enabled": true,
+    "files.autoSave": "afterDelay",
     "git.fetchOnPull": true,
     "git.followTagsWhenSync": true,
     "git.mergeEditor": true,
@@ -20,9 +33,18 @@
     "git.rebaseWhenSync": true,
     "git.terminalGitEditor": true,
     "github.branchProtection": true,
+    "javascript.format.enable": false,
+    "javascript.validate.enable": false,
     "notebook.formatOnSave.enabled": true,
     "python.terminal.activateEnvInCurrentTerminal": true,
     "python.terminal.focusAfterLaunch": true,
+    "standard.autoFixOnSave": true,
+    "standard.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
     "tabnine.experimentalAutoImports": true,
     "telemetry.telemetryLevel": "off",
     "terminal.integrated.confirmOnExit": "hasChildProcesses",
