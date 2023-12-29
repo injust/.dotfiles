@@ -41,6 +41,7 @@
     "github.branchProtection": true,
     "gitlens.plusFeatures.enabled": false,
     "javascript.updateImportsOnFileMove.enabled": "always",
+    "markdown.validate.enabled": true,
     "mypy-type-checker.importStrategy": "fromEnvironment",
     "mypy-type-checker.reportingScope": "workspace",
     "notebook.formatOnSave.enabled": true,
