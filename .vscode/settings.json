@@ -42,6 +42,7 @@
     "javascript.format.enable": false,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "javascript.validate.enable": false,
+    "markdown.validate.enabled": true,
     "mypy-type-checker.importStrategy": "fromEnvironment",
     "mypy-type-checker.reportingScope": "workspace",
     "notebook.formatOnSave.enabled": true,
