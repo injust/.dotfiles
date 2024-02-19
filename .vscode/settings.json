@@ -73,6 +73,7 @@
         "typescriptreact"
     ],
     "telemetry.telemetryLevel": "off",
+    "terminal.integrated.allowChords": false,
     "terminal.integrated.confirmOnExit": "hasChildProcesses",
     "terminal.integrated.enableBell": true,
     "terminal.integrated.enableMultiLinePasteWarning": "never",
