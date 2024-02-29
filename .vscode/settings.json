@@ -27,6 +27,9 @@
     "[typescriptreact]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
+    "accessibility.signals.terminalBell": {
+        "sound": "on"
+    },
     "editor.experimental.asyncTokenization": true,
     "editor.foldingImportsByDefault": true,
     "editor.fontFamily": "'Monaspace Argon', Menlo, Monaco, 'Courier New', monospace",
@@ -80,8 +83,8 @@
     "telemetry.telemetryLevel": "off",
     "terminal.integrated.allowChords": false,
     "terminal.integrated.confirmOnExit": "hasChildProcesses",
-    "terminal.integrated.enableBell": true,
     "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "terminal.integrated.enableVisualBell": true,
     "terminal.integrated.persistentSessionScrollback": 1000,
     "terminal.integrated.scrollback": 10000,
     "terminal.integrated.shellIntegration.suggestEnabled": true,
