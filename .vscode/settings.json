@@ -12,6 +12,8 @@
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
     "explorer.fileNesting.enabled": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveWorkspaceFilesOnly": true,
     "git.fetchOnPull": true,
     "git.followTagsWhenSync": true,
     "git.mergeEditor": true,
