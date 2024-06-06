@@ -1,0 +1,8 @@
+{
+  "autosave": { "after_delay": { "milliseconds": 500 } },
+  "soft_wrap": "editor_width",
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  }
+}
