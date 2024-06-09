@@ -88,6 +88,7 @@
     "terminal.integrated.env.osx": {
         "Q_NEW_SESSION": "1"
     },
+    "terminal.integrated.fontFamily": "'Monaspace Argon', 'Symbols Nerd Font', Menlo, Monaco, 'Courier New', monospace",
     "terminal.integrated.persistentSessionScrollback": 1000,
     "terminal.integrated.scrollback": 10000,
     "terminal.integrated.showExitAlert": false,
