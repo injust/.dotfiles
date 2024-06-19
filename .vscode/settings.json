@@ -98,5 +98,9 @@
     "terminal.integrated.tabs.focusMode": "singleClick",
     "timeline.pageOnScroll": true,
     "typescript.updateImportsOnFileMove.enabled": "always",
-    "window.autoDetectColorScheme": true
+    "window.autoDetectColorScheme": true,
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
+    "workbench.preferredLightColorTheme": "Catppuccin Latte"
 }
