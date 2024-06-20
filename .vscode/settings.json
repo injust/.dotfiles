@@ -36,6 +36,7 @@
     "editor.foldingImportsByDefault": true,
     "editor.fontFamily": "'Monaspace Argon', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09'",
+    "editor.fontSize": 13,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
@@ -91,6 +92,7 @@
         "Q_NEW_SESSION": "1"
     },
     "terminal.integrated.fontFamily": "'Monaspace Argon', 'Symbols Nerd Font', Menlo, Monaco, 'Courier New', monospace",
+    "terminal.integrated.fontSize": 13,
     "terminal.integrated.persistentSessionScrollback": 1000,
     "terminal.integrated.scrollback": 10000,
     "terminal.integrated.showExitAlert": false,
