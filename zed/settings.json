@@ -1,4 +1,5 @@
 {
+  "theme": "Catppuccin Mocha",
   // TODO https://github.com/zed-industries/zed/issues/5180: Use Symbols Nerd Font as a fallback font and enable OpenType features
   "buffer_font_family": "Monaspace Argon",
   "autosave": { "after_delay": { "milliseconds": 500 } },
