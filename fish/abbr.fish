@@ -1,3 +1,4 @@
+abbr --add cat -- bat
 abbr --add ll -- ls -AFhl
 abbr --add wget -- wget2
 
