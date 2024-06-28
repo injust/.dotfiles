@@ -1,3 +1,7 @@
+if not status is-interactive
+    exit
+end
+
 abbr --add cat -- bat
 abbr --add wget -- wget2
 abbr --add where -- type --all
