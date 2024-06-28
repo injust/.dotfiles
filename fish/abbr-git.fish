@@ -19,7 +19,7 @@ function abbr_git
         end
     end"
 
-    abbr --add $short --position anywhere --function __git_$short
+    abbr --add $short --position=anywhere --function=__git_$short
 end
 
 abbr --add gad -- git add
