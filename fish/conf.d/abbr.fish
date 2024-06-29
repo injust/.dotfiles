@@ -3,6 +3,7 @@ if not status is-interactive
 end
 
 abbr --add cat -- bat
+abbr --add grep -- rg
 abbr --add wget -- wget2
 abbr --add where -- type --all
 abbr --add which -- type
