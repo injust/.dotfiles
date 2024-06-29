@@ -2,11 +2,11 @@ if not status is-interactive
     exit
 end
 
-abbr --add cat -- bat
-abbr --add grep -- rg
-abbr --add wget -- wget2
-abbr --add where -- type --all
-abbr --add which -- type
+abbr cat -- bat
+abbr grep -- rg
+abbr wget -- wget2
+abbr where -- type --all
+abbr which -- type
 
 # Inspired by https://fishshell.com/docs/current/interactive.html#abbreviations
-abbr --add dotdot --regex='^\.{2,}$' --function=__multicd
+abbr dotdot --regex='^\.{2,}$' --function=__multicd
