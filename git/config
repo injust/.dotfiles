@@ -20,14 +20,17 @@
 
 [core]
 	fsmonitor = true
+	pager = delta
 	untrackedcache = true
 
 [credential]
 	helper = 
 
+[delta]
+	navigate = true
+
 [diff]
-	colorMoved = dimmed-zebra
-	colorMovedWS = allow-indentation-change
+	colorMoved = default
 
 [fetch]
 	prune = true
@@ -40,6 +43,12 @@
 
 [init]
 	defaultBranch = main
+
+[interactive]
+	diffFilter = delta --color-only
+
+[merge]
+	conflictstyle = diff3
 
 [pull]
 	rebase = true
