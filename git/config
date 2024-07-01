@@ -20,7 +20,7 @@
 
 [core]
 	fsmonitor = true
-	pager = delta
+	pager = LESS='--quit-if-one-screen --RAW-CONTROL-CHARS --redraw-on-quit' delta
 	untrackedcache = true
 
 [credential]
